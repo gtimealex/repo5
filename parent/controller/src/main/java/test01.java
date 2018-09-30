@@ -3,5 +3,9 @@ public class test01 {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");
+        System.out.println("你好");
+    }
+    public void test(){
+
     }
 }
